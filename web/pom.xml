@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -10,16 +10,16 @@
 		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
 	
-	<artifactId>jeesite-web</artifactId>
+	<artifactId>xiaocou-web</artifactId>
 	<packaging>war</packaging>
 	
-	<name>JeeSite Web</name>
+	<name>xiaocou-web</name>
 	<url>http://jeesite.com</url>
 	<inceptionYear>2013-Now</inceptionYear>
 	
 	<properties>
 		
-		<finalName>web</finalName><!-- war包的名称 -->
+		<finalName>xiaocou-web</finalName><!-- war包的名称 -->
 		<start-class>com.jeesite.modules.Application</start-class>
 		
 		<!-- environment setting -->
